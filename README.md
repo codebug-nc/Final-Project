@@ -27,3 +27,7 @@
 - [Google fonts](https://fonts.google.com/)
 - [Funny Text](https://alvarotrigo.com/funnyText/)
 - [Opening letters](https://tympanus.net/Tutorials/AnimatedOpeningType/)
+
+
+## NavBar Ideas
+- Pick your favorite from this [list](https://navnav.co/)!!
