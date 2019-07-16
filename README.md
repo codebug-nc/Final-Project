@@ -22,3 +22,8 @@
 
 ### Implement a Rating Scale
 - [Emoji Rating](https://codepen.io/bennettfeely/pen/EKrENG)
+
+### Add a Cool Font
+- [Google fonts](https://fonts.google.com/)
+- [Funny Text](https://alvarotrigo.com/funnyText/)
+- [Opening letters](https://tympanus.net/Tutorials/AnimatedOpeningType/)
