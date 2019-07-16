@@ -1,5 +1,7 @@
 # Final Project
 
+***
+
 ## Home Page Ideas
 
 ### Add a full-page background image:
