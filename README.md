@@ -16,7 +16,7 @@
 
 ### Add a [parallax image](https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm) to the background
 - Find a cool image on a site that offers free stock photos: maybe [stocksnap](https://stocksnap.io/) or [unsplash](https://unsplash.com/)
-- Check out how to do it (here)[https://www.w3schools.com/howto/howto_css_parallax.asp]
+- Check out how to do it [here](https://www.w3schools.com/howto/howto_css_parallax.asp)
 
 ### Implement a Cool Background Effect
 - [Particle Background](http://jnicol.github.io/particleground/)
