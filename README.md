@@ -28,7 +28,6 @@
 ### Add a Cool Font
 - [Google fonts](https://fonts.google.com/)
 - [Funny Text](https://alvarotrigo.com/funnyText/)
-- [Opening letters](https://tympanus.net/Tutorials/AnimatedOpeningType/)
 
 
 ***
