@@ -7,7 +7,7 @@
 ## Day 2
 
 #### Combining An Old Project
-- Create three files inside your final project folder. For example: `fortune-teller.html`, `fortuner-teller.css`, `fortuner-teller.js`
+- Create three files inside your final project folder. For example: `fortune-teller.html`, `fortune-teller.css`, `fortune-teller.js`
 - Open the old project code
 - Copy/paste each file into the newly created file
 - Open the new html file in Chrome to make sure everything works. Example: `open fortune-teller.html`
