@@ -3,9 +3,6 @@
 ### Day 1
 - [Past Projects To Choose From](https://github.com/codebug-nc/project-to-choose-from)
 - [Home Page Ideas](https://github.com/codebug-nc/home-page-ideas)
-
-***
-
 ### Day 2
 
 #### Mini Lessons
