@@ -19,6 +19,7 @@
  - [How to make buttons link to new html pages when clicked](https://docs.google.com/presentation/d/1AtqYgxOycNMrQX-q9ZihrXqyoPvtTL59SDuluYX34gk/edit?usp=sharing)
  - [How to add FunnyText.js](https://github.com/codebug-nc/mini-lesson.funny-text)
  - [How to add a google font](https://github.com/codebug-nc/mini-lesson.google-font)
+ - [How to add Trianglify](https://github.com/codebug-nc/mini-lesson.trianglify)
  
 #### Extending Your Project Examples
 - [Rock Paper Scissors Example with images & click](https://github.com/codebug-nc/example.rock-paper-scissor)
