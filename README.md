@@ -21,7 +21,7 @@
  - [How to add a google font](https://github.com/codebug-nc/mini-lesson.google-font)
  - [How to add Trianglify](https://github.com/codebug-nc/mini-lesson.trianglify)
  - [How to add Particleground](https://github.com/codebug-nc/mini-lesson.particle)
- - [How to add CSS animations](https://github.com/codebug-nc/mini-lesson.animate.css)
+ - [How to add animate HTML using Animate.css](https://github.com/codebug-nc/mini-lesson.animate.css)
  
 #### Extending Your Project Examples
 - [Rock Paper Scissors Example with images & click](https://github.com/codebug-nc/example.rock-paper-scissor)
