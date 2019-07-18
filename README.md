@@ -48,9 +48,5 @@
 - [Emoji Rating](https://codepen.io/bennettfeely/pen/EKrENG)
 
 
-
-
 ***
 
-## NavBar Ideas
-- Pick your favorite from this [list](https://navnav.co/)!!
