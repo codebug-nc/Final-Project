@@ -18,6 +18,7 @@
  - [How to make a Nav Bar](https://docs.google.com/presentation/d/1lK9zFNVu1bMhf-9xZ4xlgOFeX4EMh65CR1cn5XY4xTs/edit?usp=sharing)
  - [How to make buttons link to new html pages when clicked](https://docs.google.com/presentation/d/1AtqYgxOycNMrQX-q9ZihrXqyoPvtTL59SDuluYX34gk/edit?usp=sharing)
  - [How to add FunnyText.js](https://github.com/codebug-nc/mini-lesson.funny-text)
+ - [How to add a google font](https://github.com/codebug-nc/mini-lesson.google-font)
  
 #### Extending Your Project Examples
 - [Rock Paper Scissors Example with images & click](https://github.com/codebug-nc/example.rock-paper-scissor)
