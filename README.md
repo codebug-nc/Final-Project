@@ -50,3 +50,5 @@
 
 ***
 
+### [How to make a Nav Bar](https://docs.google.com/presentation/d/1lK9zFNVu1bMhf-9xZ4xlgOFeX4EMh65CR1cn5XY4xTs/edit?usp=sharing)
+
