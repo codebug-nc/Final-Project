@@ -10,6 +10,8 @@
 - Create three files inside your final project folder. For example: `fortune-teller.html`, `fortune-teller.css`, `fortune-teller.js`
 - Open the old project code
 - Copy/paste each file into the newly created file
+- Inside your new html file `fortune-teller.html` change the link to `script.js` to link to `fortune-teller.js`.
+- Inside your new html file `fortune-teller.html` change the link to `style.css` to link to `fortune-teller.css`.
 - Open the new html file in Chrome to make sure everything works. Example: `open fortune-teller.html`
 
 #### Mini Lessons
