@@ -1,0 +1,65 @@
+h1
+{
+	color: lightgreen;
+	text-align: center;
+	border: 50px solid red;
+	border-radius: 250px;
+	background-color: blue;
+	padding: 15px;
+}
+body
+{
+	background-image: linear-gradient(to right, blue, green, magenta, yellow, magenta, green, blue);
+}
+img
+{
+	width: 500px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+}
+.paper{
+	float: left;
+}
+.globe{
+	float: right;
+}
+
+#globe-img
+{
+	width: auto;
+	height: 300px;
+}
+
+
+
+
+
+.move-area{/*normally use body*/
+  width: 100vw;
+  height: 100vh;
+  padding: 10% 45%;
+}
+.container {
+  width: 100%;
+}
+.eye {
+  position: relative;
+  display: inline-block;
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+  background: black;
+}
+.eye:after { /*pupil*/
+  position: absolute;
+  bottom: 51px;
+  right: 30px;
+  width: 30px;
+  height: 30px;
+  /*background: white;*/
+  background-image: linear-gradient(to right, blue, green, magenta, yellow, magenta, green, blue);
+  border-radius: 50%;
+  content: "eyes";
+}

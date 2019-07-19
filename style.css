@@ -1,1 +1,91 @@
+.parallax { 
+  /* The image used */
+  background-image: url("http://www.jakpost.travel/imgfiles/full/39/393079/tiger-wallpaper-3d.jpg");
 
+  /* Set a specific height */
+  height: 600px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center bottom;
+  background-repeat: repeat;
+  background-size: cover;
+}
+.parallax-2 { 
+  /* The image used */
+  background-image: url("https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2018/11/matiash_squarespace_cover.jpg");
+
+  /* Set a specific height */
+  height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.radial{
+	background: radial-gradient(red, turquoise);
+}
+.radial-2{
+	background: radial-gradient(red, turquoise);
+	color: yellow;
+}
+h2{
+	color: red;
+}
+ canvas {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+#loading-gif{
+	width: 100%;
+	height: 1000px;
+	background-color: #FF29A2;
+	display: flex;
+	align-items: center;
+}
+#loading-img{
+	display: block;
+	margin: 0 auto;
+}
+
+#divider {
+	height: 500px;
+	width: 100%;
+	background: radial-gradient(red, turquoise);
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.links{
+	height: 50px;
+	width: 50px;
+	border: 50px solid red;
+	background-color: black;
+	padding: 20px;
+	color: white;
+	font-size: 15pt;
+}
+.rate {
+	text-align: center;
+	width: 200px;
+	height: 200px;
+	ouline: thin solid lightgray;
+}
+.emoji {
+	font-size: 120px;
+	height: 170px;
+	line-height: 170px;
+}
+
+input {
+	cursor: ew-resize;
+}
+#down-arrow{
+	height: 50px;
+}
