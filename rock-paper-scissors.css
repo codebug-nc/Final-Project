@@ -1,0 +1,38 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: lightblue;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+#yeti{
+	background-color: orange;
+	text-align: center;
+	margin: 0 auto;
+	width: 300px;
+	border-radius: 20px;
+	padding: 25px;
+	display: block;
+	vertical-align: middle;
+	font-size: 20pt;
+	font-family: sans-serif;
+}
+
+#qui{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 40%
+}
+
+
+#qui2{
+	display: flex;
+	justify-content: space-around;
+}

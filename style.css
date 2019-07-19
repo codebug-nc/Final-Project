@@ -1,1 +1,82 @@
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100vw;
+	height: 100vh;
+}
 
+.funny-text{
+	width: 450px;
+	text-align: center;
+	background: black;
+	margin: 0 auto;
+}
+
+#squid{
+	
+	background-color: orange;
+	height: 200px;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 96%;
+	background-color: red;
+	color: white;
+	text-align: center;
+	margin-left: 2%;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#blue{
+	background-color: blue;
+	border-radius: 20px;
+	width: 300px;
+	height: 50px;
+	font-size: 20pt;
+	margin: 0 auto;
+	height: 75px;
+	vertical-align: middle;
+	margin-right:75px;
+}
+
+#floss{
+	background-color: blue;
+	border-radius: 20px;
+	width: 300px;
+	height: 50px;
+	font-size: 20pt;
+	margin: 0 auto;
+	height: 75px;
+	vertical-align: middle;
+}
+
+#toy{
+	background-color: blue;
+	border-radius: 20px;
+	width: 300px;
+	height: 50px;
+	font-size: 20pt;
+	margin: 0 auto;
+	height: 75px;
+	vertical-align: middle;
+	margin-left:75px;
+}
+
+#panda{
+	
+	display: flex;
+}
+
+#sponge{
+	width: 275px;
+}
+
+#red{
+	width: 50px;
+}
