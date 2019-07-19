@@ -31,3 +31,15 @@
 
 #### Survey
 [Link To Survey](https://forms.gle/cykA2Bmdap3z6Ub8A)
+
+
+
+#### Presentation Checklist
+* [ ] Introduce yourself
+* [ ] From the terminal
+    * Open your project in Sublime
+    * Open your project in Chrome
+* [ ] Click around show off all pages of your final project
+* [ ] Pick an audience member to use one aspect of your website
+* [ ] Pick one aspect of your project, and talk through how you wrote the code to create it (show your code to the audience)
+* [ ] Change one thing about your project in the code so the audience can see you in action!
